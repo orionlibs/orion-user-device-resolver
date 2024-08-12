@@ -1,4 +1,4 @@
-package io.github.orionlibs.project_name;
+package io.github.orionlibs.orion_user_device_resolver;
 
 public class OrionDomain
 {
